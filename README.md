@@ -56,11 +56,11 @@ __________
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=aguss101show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)
+[![](https://github-readme-stats.vercel.app/api?username=aguss101&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aguss101&theme=material-palenight)](https://github.com/aguss101)
 
 ----
- <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
+ <img  src="https://raw.githubusercontent.com/aguss101/aguss101/main/resources/img/github-contribution-grid-snake.svg" />
 
 
 
