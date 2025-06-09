@@ -1,3 +1,6 @@
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -57,5 +60,8 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=aguss101&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aguss101&theme=material-palenight)](https://github.com/aguss101)
+<a href="https://github.com/aguss101">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=aguss101&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+</a>
 
 
