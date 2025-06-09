@@ -8,9 +8,6 @@
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <p> + TypreScript
-  </p>
   <img src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
@@ -26,8 +23,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <P>CodeBlocks</P>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Productivity & Office Tools </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 </span>
