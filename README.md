@@ -29,7 +29,9 @@
 
 </span>
 
-## Check out my social media
+<h5> 
+  Check out my social media
+</h5>
 
 <a href = "https://www.linkedin.com/in/agustin-baied-19431b267/">
   <img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -37,4 +39,30 @@
 <a href = "https://www.instagram.com/baied.agustin/" >
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+__________
+
+<h3 align="center">Contact me</h3>
+
+<p align="center">
+  <a  href="https://t.me/aguss_101">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+  <a href="mailto:agustinbaied1@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+----
+
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=aguss101show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aguss101&theme=material-palenight)](https://github.com/aguss101)
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/aguss101/aguss101/main/resources/img/github-contribution-grid-snake.svg"/>
+</p>
+
 
