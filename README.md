@@ -41,9 +41,9 @@
 </a>
 __________
 
-<h3 align="center">Contact me</h3>
+<h3 >Contact me</h3>
 
-<p align="center">
+<p >
   <a  href="https://t.me/aguss_101">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
   </a>
@@ -54,15 +54,13 @@ __________
 
 ----
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=aguss101show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aguss101&theme=material-palenight)](https://github.com/aguss101)
 
 ----
+ <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/aguss101/aguss101/main/resources/img/github-contribution-grid-snake.svg"/>
-</p>
 
 
