@@ -39,7 +39,6 @@
 <a href = "https://www.instagram.com/baied.agustin/" >
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-__________
 
 <h3 >Contact me</h3>
 
@@ -58,9 +57,5 @@ __________
 
 [![](https://github-readme-stats.vercel.app/api?username=aguss101&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=aguss101&theme=material-palenight)](https://github.com/aguss101)
-
-----
- <img  src="https://raw.githubusercontent.com/aguss101/aguss101/main/resources/img/github-contribution-grid-snake.svg" />
-
 
 
