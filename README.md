@@ -46,9 +46,6 @@
 <h3 >Contact me</h3>
 
 <p >
-  <a  href="https://t.me/aguss_101">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
   <a href="mailto:agustinbaied1@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
