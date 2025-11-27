@@ -1,4 +1,4 @@
-<img width="1914" height="901" alt="image" src="https://github.com/user-attachments/assets/70a94b46-1c87-47ea-bfeb-e4b613ebb4b0" />## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<b> Skills</b>
 <br>
 
 <h4> Languages </h4>
